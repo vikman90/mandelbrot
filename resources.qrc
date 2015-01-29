@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>languages/mandelbrot_en.qm</file>
+        <file>languages/mandelbrot_en.ts</file>
+        <file>languages/mandelbrot_es.qm</file>
+        <file>languages/mandelbrot_es.ts</file>
+        <file>languages/mandelbrot_it.qm</file>
+        <file>languages/mandelbrot_it.ts</file>
+        <file>icons/close.png</file>
+        <file>icons/fractal.png</file>
+        <file>icons/help.png</file>
+        <file>icons/save.png</file>
+        <file>icons/p1.png</file>
+        <file>icons/p2.png</file>
+        <file>icons/p3.png</file>
+        <file>icons/options.png</file>
+    </qresource>
+</RCC>
